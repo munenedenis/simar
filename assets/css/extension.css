@@ -77,7 +77,7 @@ a:focus { outline: none; }
 .align-left{ text-align:left}
 .align-right{ text-align:right}
 
-.pad-top-half { padding-top: 10px !important; }
+.pad-top-half { padding-top: 10px !important;}
 .pad-left-half { padding-left: 10px !important; }
 .pad-right-half { padding-right: 10px !important; }
 .pad-bottom-half { padding-bottom: 10px !important; }
@@ -91,11 +91,11 @@ a:focus { outline: none; }
 .pad-bottom-medium { padding-bottom: 30px !important; }
 .pad-bottom-medium-plus { padding-bottom: 40px !important; }
 .pad-top-large { padding-top: 50px !important; }
-.pad-top-extra { padding-top: 70px !important; }
+.pad-top-extra { padding-top: 50px !important; }
 .pad-left-extra { padding-left: 70px !important; }
 .pad-right-extra { padding-right: 70px !important; }
 .pad-bottom-extra { padding-bottom: 70px !important; }
-.pad-top-extra-large { padding-top: 90px !important; }
+.pad-top-extra-large { padding-top: 70px !important; }
 .pad-left-extra-large { padding-left: 90px !important; }
 .pad-right-extra-large { padding-right: 90px !important; }
 .pad-bottom-extra-large { padding-bottom: 90px !important; }
